@@ -1,0 +1,3 @@
+[submodule "cyan"]
+	path = cyan
+	url = https://github.com/bluebridge/cyan.git
